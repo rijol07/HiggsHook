@@ -1,0 +1,17 @@
+# Build Artifacts
+libs/
+obj/
+.cxx/
+build/
+bin/
+gen/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.iml
+*.DS_Store
+
+# Logs
+*.log
+*.txt
